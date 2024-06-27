@@ -1,8 +1,8 @@
 {
-  "name": "com.virtuesky._package_name_",
-  "displayName": "__Package_Name__",
-  "description": "__Package_Description__",
-  "version": "x.x.x",
+  "name": "com.wolf-package.object-pooling",
+  "displayName": "UnityCommon-ObjectPooling",
+  "description": "Object Pooling for Unity",
+  "version": "1.0.0",
   "unity": "2021.3",
   "category": "virtuesky",
   "author": {
@@ -11,6 +11,9 @@
     "url": "https://github.com/VirtueSky"
   },
   "keywords": [
+    "Unity",
+    "Pooling",
+    "Object-Pooling"
   ],
   "dependencies": {}
 }
