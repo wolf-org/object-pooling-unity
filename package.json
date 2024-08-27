@@ -1,8 +1,8 @@
 {
-  "name": "com.wolf-package.object-pooling",
+  "name": "com.wolf-org.object-pooling",
   "displayName": "UnityCommon-ObjectPooling",
   "description": "Object Pooling for Unity",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2021.3",
   "category": "virtuesky",
   "license": "MIT",

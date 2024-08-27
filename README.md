@@ -24,9 +24,9 @@
 
 ### Add the line below to `Packages/manifest.json`
 
-for version `1.0.0`
+for version `1.0.1`
 ```csharp
-"com.wolf-package.object-pooling":"https://github.com/wolf-package/object-pooling-unity.git#1.0.0",
+"com.wolf-org.object-pooling":"https://github.com/wolf-org/object-pooling-unity.git#1.0.1",
 ```
 ## Use
 
